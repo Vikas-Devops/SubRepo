@@ -1,0 +1,16 @@
+[submodule "Repo1"]
+	path = Repo1
+	url = https://github.com/Vikas-Devops/Repo1.git
+	branch = master
+[submodule "Project2"]
+	path = Project2
+	url = https://github.com/Vikas-Devops/Project2.git
+	branch = master
+[submodule "aws-nodejs-eb"]
+	path = aws-nodejs-eb
+	url = https://github.com/Vikas-Devops/aws-nodejs-eb.git
+	branch = master
+[submodule "Spring-Boot-Docker"]
+	path = Spring-Boot-Docker
+	url = https://github.com/Vikas-Devops/Spring-Boot-Docker.git
+	branch = master
